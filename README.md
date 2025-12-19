@@ -1,2 +1,1 @@
-# fluffy-doodle
-# bookish-funicular
+# Смотреть Issues
